@@ -8,4 +8,10 @@ KRISHNA-NATARAJAN ,BALASUB
 WU,CHING-WEN
 SCHEER, GEORGE
 ```
-
+the function should return
+```
+EstradaA Berlanga,Karla
+Krishna-Nata ,Balasub
+Wu,Ching-Wen
+Scheer, George
+```
